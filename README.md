@@ -10,8 +10,8 @@ A collection of React projects developed during self-teaching efforts on freeCod
 - **JavaScript Calculator**: A basic calculator built to perform simple arithmetic operations.
 - **Drum Machine**: An interactive drum pad that plays drum sounds when buttons are clicked.
 
-Post these projects, I have expanded my skills into full stack development ( [fullstackopen repository](https://github.com/loc-codes/fullstackopen)), 
-showcasing advanced projects and a deeper understanding of React alongside backend development.
+Post these projects, I have expanded my skills into full stack development ([See here](https://github.com/loc-codes/fullstackopen)), 
+with more advanced projects and a deeper understanding of React alongside backend development.
 
 
 
